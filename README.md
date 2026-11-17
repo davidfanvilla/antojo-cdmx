@@ -10,4 +10,4 @@ Controles en computadora: flechas o A/D para caminar, espacio para saltar, ↓/S
 En Safari: botón Compartir → *Agregar a pantalla de inicio*, y abre el juego desde ese ícono. En iPad, el juego entra a pantalla completa al tocar para comenzar.
 
 ## Lotería
-Termina un stage con los 14 antojitos para ganar su carta. Con las cinco, se desbloquea LA MALVINA. Se guardan en el navegador.
+Termina un stage con los 14 antojitos para ganar su carta. Con las seis primeras, se desbloquea LA MALVINA. Se guardan en el navegador.
